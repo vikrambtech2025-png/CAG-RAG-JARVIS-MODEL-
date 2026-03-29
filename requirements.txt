@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers 
+requests 
+streamlit
+speechrecognition
+pyttsx3 
+pyaudio

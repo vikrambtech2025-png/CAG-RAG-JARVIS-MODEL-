@@ -1,0 +1,20 @@
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It includes learning, reasoning, and self-correction. Examples of AI applications include expert systems, natural language processing (NLP), speech recognition, machine vision, and generative tools like ChatGPT and Perplexity.
+
+As the hype around AI has accelerated, vendors have scrambled to promote how their products and services incorporate it. Often, what they refer to as "AI" is a well-established technology such as machine learning.
+
+AI requires specialized hardware and software for writing and training machine learning algorithms. No single programming language is used exclusively in AI, but Python, R, Java, C++ and Julia are all popular languages among AI developers.
+
+In general, AI systems work by ingesting large amounts of labeled training data, analyzing that data for correlations and patterns, and using these patterns to make predictions about future states.
+
+For example, an AI chatbot that is fed examples of text can learn to generate lifelike exchanges with people, and an image recognition tool can learn to identify and describe objects in images by reviewing millions of examples. Generative AI techniques, which have advanced rapidly over the past few years, can create realistic text, images, music and other media.
+
+Programming AI systems focuses on cognitive skills such as the following:
+
+Learning. This aspect of AI programming involves acquiring data and creating rules, known as algorithms, to transform it into actionable information. These algorithms provide computing devices with step-by-step instructions for completing specific tasks.
+Reasoning. This aspect involves choosing the right algorithm to reach a desired outcome.
+Self-correction. This aspect involves algorithms continuously learning and tuning themselves to provide the most accurate results possible.
+Creativity. This aspect uses neural networks, rule-based systems, statistical methods and other AI techniques to generate new images, text, music, ideas and so on.
+Differences among AI, machine learning and deep learning
+The terms AI, machine learning and deep learning are often used interchangeably, especially in companies' marketing materials, but they have distinct meanings. In short, AI describes the broad concept of machines simulating human intelligence, while machine learning and deep learning are specific techniques within this field.
+
+The term AI, coined in the 1950s, encompasses an evolving and wide range of technologies that aim to simulate human intelligence, including machine learning and deep learning. Machine learning enables software to autonomously learn patterns and predict outcomes by using historical data as input. This approach became more effective with the availability of large training data sets. Deep learning, a subset of machine learning, aims to mimic the brain's structure using layered neural networks. It underpins many major breakthroughs and recent advances in AI, including autonomous vehicles and ChatGPT.
